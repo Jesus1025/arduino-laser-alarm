@@ -4,6 +4,7 @@ Este repositorio contiene el código y la documentación para un prototipo funci
 Es un excelente proyecto práctico para aprender sobre sensores, gestión de estados y control de componentes digitales.
 
 Demostración en Video 🎬
+https://www.youtube.com/shorts/h-VYNgWkmTU
 Características ⚙️
 Detección de Luz: La alarma se activa cuando el nivel de luz (láser interrumpido) supera un umbral definido.
 
